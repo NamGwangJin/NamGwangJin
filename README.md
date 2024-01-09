@@ -34,7 +34,7 @@ click!<br><br>
 <a href="https://su-hun.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <br><br><br><br>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatngjs8&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamGwangJin&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
 </div> 
 <!--
 **rlatngjs8/rlatngjs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
