@@ -31,8 +31,8 @@
 ## 😀 About Me
 click!<br><br>
 <a href="mailto:n45202605@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://su-hun.notion.site/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<br><br><br><br>  
+<a href="https://www.notion.so/Nam-Gwang-Jin-a645c5daae724676bf8151704556ec59"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<br><br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamGwangJin&show_icons=true&theme=shadow_blue&locale=kr&hide=stars,contribs)
 </div> 
