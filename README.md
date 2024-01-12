@@ -1,27 +1,27 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=NamGwangJin's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
-
+<br>
 🧑 <a href="mailto:n45202605@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
     <a href="https://www.notion.so/Nam-Gwang-Jin-a645c5daae724676bf8151704556ec59"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp;
     <a href="https://memoir-of-developer.tistory.com/"><img src="https://img.shields.io/badge/BLOG-FF4785?style=flat-square&logo=tistory&logoColor=white"/></a>
-
+<br>
 🙌 안녕하세요. **웹 개발자**를 꿈꾸는 남광진입니다.<br>
     Hello. I`m Nam GwangJin, aspiring to become a **web developer**.
-
+<br>
  ## 💪 Skiils
-
-    <a><img src="https://img.shields.io/badge/Java-13448F?style=flat-square&logo=openjdk&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>  
-    
-    <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> 
-    <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
-    <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-    <a><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
-
+<br>
+<a><img src="https://img.shields.io/badge/Java-13448F?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>  
+<br>
+<a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> 
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamGwangJin&show_icons=true&theme=dark)
-
+<br>
 </div>
