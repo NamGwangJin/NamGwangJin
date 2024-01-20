@@ -7,7 +7,7 @@
 <a href="https://memoir-of-developer.tistory.com/"><img src="https://img.shields.io/badge/BLOG-FF4785?style=flat-square&logo=tistory&logoColor=white"/></a>
 ##
 ### 🙌 안녕하세요. **웹 개발자**를 꿈꾸는 남광진입니다.<br>
-###     Hello. I`m Nam GwangJin, aspiring to become a **web developer**.
+### 🙌  Hello. I`m Nam GwangJin, aspiring to become a **web developer**.
 ##
 ### 💪 Skiils
 
