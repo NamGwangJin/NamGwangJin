@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=WELCOME%20TO%20MY%20GITHUB&fontAlign=50&animation=fadeIn&textBg=false&reversal=false&section=header&fontColor=fffff&fontSize=60" />
 
-### 🧑 Link
+### 📄 Link
 <a href="mailto:n45202605@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://www.notion.so/Nam-Gwang-Jin-a645c5daae724676bf8151704556ec59"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp;
 <a href="https://memoir-of-developer.tistory.com/"><img src="https://img.shields.io/badge/BLOG-FF4785?style=flat-square&logo=tistory&logoColor=white"/></a>
 ##
+### 🧑 Intro
 ### 🙌 안녕하세요. **웹 개발자**를 꿈꾸는 남광진입니다.<br>
 ### 🙌  Hello. I`m Nam GwangJin, aspiring to become a **web developer**.
 ##
