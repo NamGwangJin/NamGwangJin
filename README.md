@@ -27,5 +27,5 @@
 ##
 ### 🏆 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamGwangJin&show_icons=true&theme=dark)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=n45202605@gmail.com)](https://solved.ac/n45202605@gmail.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=developgj)](https://solved.ac/developgj/)
 </div>
